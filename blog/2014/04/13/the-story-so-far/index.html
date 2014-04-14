@@ -1,0 +1,129 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>The Story So Far - My Octopress Blog</title>
+  <meta name="author" content="Your Name">
+
+  
+  <meta name="description" content="The Story So Far written Apr 13th, 2014 We started out having no idea how we could make OTTO a reality. Well, to go back a bit further, we started &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://OTTO-Mixr.github.io/blog/2014/04/13/the-story-so-far">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/atom.xml" rel="alternate" title="My Octopress Blog" type="application/atom+xml">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  
+
+</head>
+
+  <body>
+    <a href="/" class="home-icon">
+      <img src="/images/home.png"/>
+    </a>
+
+    <article role="article" class="full-single-article">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8 col-md-offset-2">
+        <h1>The Story So Far</h1>
+        <div class="meta">
+          written 
+
+
+
+
+
+
+
+
+  
+
+
+
+<time datetime="2014-04-13T11:58:43-07:00" pubdate data-updated="true">Apr 13<span>th</span>, 2014</time>
+          
+
+
+        </div>
+        <p>We started out having no idea how we could make OTTO a reality. Well, to go back a bit further, we started out having no idea what project we were actually competent enough to complete. An acoustic keyboard sniffer? Too much math. A differential power analysis attack? Too much what the fuck is this. An automated pancake flipper? Too many carbs. OTTO came to fruition because it was the perfect mix of engaging to work on, exciting to demo, and a good excuse to get trashed before 5. <!--more--></p>
+
+<p>Now that we had the idea we began the hard work of making it happen. The project has two basic components: get the glass to move and find a way to dispense the liquid. As it turns out, dispensing the liquid is pretty goddamn tricky. You can pump the liquid upwards. There are definitely solutions available but they’re either expensive, ugly, slow, or some combination thereof. We saw an existing project that used breast pumps. As tempting as it is, we didn’t see ourselves marching down to Breast-Pumps-R-Us and buying 6 breast pumps. Another project used peristaltic pumps each individually controlled by an arduino connected to a raspberry pi over ethernet. That seemed way too complicated to us. Really, why not let gravity do the work? This is in fact such a good idea that another bar robot uses it. However, the makers of said robot refuse to release any schematics, part list, source code, or anything that might interfere with this idea that they seem to have that they will become billionaires from bar machines. So we had to do it ourselves.</p>
+
+<p>The first gravity solution that we looked into was a servo that would turn a valve. After spending half an hour in Home Depot turning valves and attempting to assess the amount of torque required we learned a few things. One, there is a surprising variety of valves out there. Two, the sheer amount of torque required would necessitate an impractically expensive servo. Three, none of us fit in at a hardware store.</p>
+
+<p>We pressed on in searching for valves for our project. Eventually, we came upon the aptly titled valves4projects. We found food safe solenoids for $14/piece <a href="http://www.ebay.com/itm/1-2-Gravity-Feed-Electric-Solenoid-Valve-DDB-CD-12VDC-/300653378588?pt=LH_DefaultDomain_0&amp;hash=item4600567c1c">here</a>! These were perfect for our project so we ordered 6. Conveniently enough, valves4projects is located in downtown San Diego. So after heading downtown for a quick pick-up, we went over to San Diego Electronic Supply where Manny the manager hooked it fat. For starters, this store is amazing as long as you can manage not to trip on the pile of boxes that greet you in the entrance, to the right of the entrance, to the right of the right of the entrance, to the left of the right of the right of the entrance, and really just the whole store. We walked in knowing basically nothing about transistors, resistors, diodes, and circuits, but, as I said before, Manny hooked it up. After giving us a brief 101 on circuits, he did some sort of wizard math and scooped up all the parts for us. We walked out of there with:</p>
+
+<pre><code>* 6 1N4004 diodes
+* 6 3.3k resistors
+* 6 TIP111 transistors
+* 12V 5.5A power supply 
+for the princely sum of $14.
+</code></pre>
+
+<p>Now, the exciting part begins. We returned with our spoils and started plugging away at breadboarding it. We managed to get the solenoid opening and closing that same night. Considering that we were expecting that part to take a week or two, we were pleasantly surprised. Encouraged by this success, we began plotting our next improvement to OTTO: refrigerated mixers! Once we actually figure out how to do this, we’ll share it with you guys. Stay tuned.</p>
+
+      </div>
+    </div>
+  </div>
+</article>
+
+<hr class="divider-short"/>
+
+<div class="archive-link">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8 col-md-offset-2">
+        
+
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+    <footer id="footer" class="her-row">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-1">
+  <a href="/"><h4>Home</h4></a>
+</div>
+
+<div class="col-md-2">
+  <div class="social-icon-list">
+    
+
+    
+
+    <a href="mailto:"><img src="/images/glyphicons_social_39_e-mail.png"/></a>
+  </div>
+</div>
+
+<div class="pull-right">
+  <h4>Powered by <a href="http://octopress.org/">Octopress</a>. Designed by <a href="http://AdrianArtiles.com">Adrian Artiles</a>.</h4>
+</div>
+
+
+    </div>
+  </div>
+</footer>
+
+  </body>
+</html>
