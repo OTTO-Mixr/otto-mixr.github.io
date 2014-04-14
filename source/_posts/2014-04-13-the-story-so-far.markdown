@@ -12,11 +12,13 @@ Now that we had the idea we began the hard work of making it happen. The project
 The first gravity solution that we looked into was a servo that would turn a valve. After spending half an hour in Home Depot turning valves and attempting to assess the amount of torque required we learned a few things. One, there is a surprising variety of valves out there. Two, the sheer amount of torque required would necessitate an impractically expensive servo. Three, none of us fit in at a hardware store.
 	
 We pressed on in searching for valves for our project. Eventually, we came upon the aptly titled valves4projects. We found food safe solenoids for $14/piece [here](http://www.ebay.com/itm/1-2-Gravity-Feed-Electric-Solenoid-Valve-DDB-CD-12VDC-/300653378588?pt=LH_DefaultDomain_0&hash=item4600567c1c)! These were perfect for our project so we ordered 6. Conveniently enough, valves4projects is located in downtown San Diego. So after heading downtown for a quick pick-up, we went over to San Diego Electronic Supply where Manny the manager hooked it fat. For starters, this store is amazing as long as you can manage not to trip on the pile of boxes that greet you in the entrance, to the right of the entrance, to the right of the right of the entrance, to the left of the right of the right of the entrance, and really just the whole store. We walked in knowing basically nothing about transistors, resistors, diodes, and circuits, but, as I said before, Manny hooked it up. After giving us a brief 101 on circuits, he did some sort of wizard math and scooped up all the parts for us. We walked out of there with:
-	* 6 1N4004 diodes
-	* 6 3.3k resistors
-	* 6 TIP111 transistors
-	* 12V 5.5A power supply 
-	for the princely sum of $14.
+
++ 6 1N4004 diodes
++ 6 3.3k resistors
++ 6 TIP111 transistors
++ 12V 5.5A power supply 
+
+for the princely sum of $14.
 
 Now, the exciting part begins. We returned with our spoils and started plugging away at breadboarding it. We managed to get the solenoid opening and closing that same night. Considering that we were expecting that part to take a week or two, we were pleasantly surprised. Encouraged by this success, we began plotting our next improvement to OTTO: refrigerated mixers! Once we actually figure out how to do this, we’ll share it with you guys. Stay tuned.
 
