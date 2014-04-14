@@ -9,7 +9,7 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>Otto</title>
+  <title>My Octopress Blog</title>
   <meta name="author" content="Your Name">
 
   
@@ -39,7 +39,6 @@ The Truly Open Mixer Bringing the Bar Experience to You Otto is all about conven
     <a href="/" class="home-icon">
       <img src="/images/home.png"/>
     </a>
-    
 
     <div class="home-page">
   <div class="hero">
@@ -58,9 +57,12 @@ The Truly Open Mixer Bringing the Bar Experience to You Otto is all about conven
   <div class="social-icon-list">
     <a title="GitHub" href="https://github.com/otto-mixr/"><img src="/images/glyphicons_social_21_github.png"/></a>
   </div>
+<<<<<<< HEAD
+=======
   <div>
     <a title="Charter" href="/blog/2014/04/13/charter">Charter Placeholder Link</a>
   </div>
+>>>>>>> b82e8613e5b0c4f9bcb5a048599bf7b71d1ff40c
 </div>
 
         </div>
@@ -74,6 +76,8 @@ The Truly Open Mixer Bringing the Bar Experience to You Otto is all about conven
           <div class="row">
             <div class="col-md-offset-3 col-md-6">
               <article>
+<<<<<<< HEAD
+=======
   <h2><a href="/blog/2014/04/13/charter/">Charter</a></h2>
   
   <p>
@@ -120,6 +124,7 @@ The Truly Open Mixer Bringing the Bar Experience to You Otto is all about conven
           <div class="row">
             <div class="col-md-offset-3 col-md-6">
               <article>
+>>>>>>> b82e8613e5b0c4f9bcb5a048599bf7b71d1ff40c
   <h2><a href="/blog/2014/04/13/the-story-so-far/">The Story So Far</a></h2>
   
   <p>

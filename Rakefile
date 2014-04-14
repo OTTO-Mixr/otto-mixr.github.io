@@ -9,10 +9,10 @@ ssh_port       = "22"
 document_root  = "~/website.com/"
 rsync_delete   = false
 rsync_args     = ""  # Any extra arguments to pass to rsync
-deploy_default = "rsync"
+deploy_default = "push"
 
 # This will be configured for you when you run config_deploy
-deploy_branch  = "gh-pages"
+deploy_branch  = "master"
 
 ## -- Misc Configs -- ##
 
@@ -225,6 +225,17 @@ task :deploy do
 
   Rake::Task[:copydot].invoke(source_dir, public_dir)
   Rake::Task["#{deploy_default}"].execute
+end
+
+desc "Deploy and push"
+task :dp do
+  puts "## THE RZA THE GZA THE MOTHAFUCKIN SZA"
+  puts "## WUTANGCLAN PUSH AND DEPLOY KILLA BEES WE ONNA SWARM"
+  puts "## SOURCE IS GOING.. GOING.."
+  system "git pull origin source"
+  system "git push origin source"
+  puts "## GONE. WTC ROLL OUT"
+  Rake::Task[:deploy].execute
 end
 
 desc "Generate website and deploy"
