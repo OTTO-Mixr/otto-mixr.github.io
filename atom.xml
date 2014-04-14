@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://OTTO-Mixr.github.io/atom.xml" rel="self"/>
   <link href="http://OTTO-Mixr.github.io/"/>
-  <updated>2014-04-13T20:16:29-07:00</updated>
+  <updated>2014-04-13T20:18:48-07:00</updated>
   <id>http://OTTO-Mixr.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -21,6 +21,9 @@
     <content type="html"><![CDATA[<h2>Project Charter</h2>
 
 <p>Project Overview – Describe the project briefly in layman’s terms (one that your grandmother could understand). This should not be more than a few sentences.</p>
+
+<!--more-->
+
 
 <p>Project Approach – Provide more technical detail (one that other students could understand). List the team members and their roles.</p>
 
