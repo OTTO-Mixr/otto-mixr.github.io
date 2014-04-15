@@ -8,39 +8,71 @@ categories:
 
 ##Project Charter
 
-Project Overview – Describe the project briefly in layman’s terms (one that your grandmother could understand). This should not be more than a few sentences.
+###Project Overview
+
+Otto is your personalized, robot bartender. Simply send a drink order to Otto from your phone, tablet, or computer and the drink will be prepared otto-matically to your tastes. 
 <!--more-->
-Project Approach – Provide more technical detail (one that other students could understand). List the team members and their roles.
+###Project Approach – Otto
 
-Project Objectives, Milestones and Major Deliverables – List your objectives and milestones without getting too detailed (you will do that later). What are the specific goals of the project for this quarter? What are potential longer term goals? Deliverables should include a description, a date, and the persons who are responsible.
+Otto has three key components: the liquor, the mixers, and the glass. The liquor will be gravity fed and regulated by solenoids hooked up to the Arduino. The mixers are a little trickier since they need to be refrigerated. They will be kept in a mini-fridge down below (where they are also regulated by solenoids) and pumped upwards by a powerful peristaltic pump. The glass will remain stationary and be fed by the appropriate tubes.
 
-Constraints, Risk and Feasibility – What are the potential stumbling blocks? What is realistically feasible here? The quarter goes by very quickly. The better approach is to over-deliver on what you promise, rather than under deliver on a set of unrealistic goals. Be sure to include risks – a list of things that could go wrong and how to avoid them.
+On the software side of things, the Arduino will be hooked up to a Raspberry Pi running node.js. Here we'll host a website that allows users to order their drinks.
+
+The team members are Rustin Manafian, Chris Weller, and Ryne Chaloux. Everyone on the team is equally experienced in the skills required for this project, so the roles are fluid and adaptable.
+
+###Project Objectives, Milestones and Major Deliverables 
+
+List your objectives and milestones without getting too detailed (you will do that later). What are the specific goals of the project for this quarter? What are potential longer term goals? Deliverables should include a description, a date, and the persons who are responsible.
+
+###Constraints, Risk and Feasibility
+
+What are the potential stumbling blocks? What is realistically feasible here? The quarter goes by very quickly. The better approach is to over-deliver on what you promise, rather than under deliver on a set of unrealistic goals. Be sure to include risks – a list of things that could go wrong and how to avoid them.
 
 ##Group Management
 
-What are the major roles in your group’s management?
+**What are the major roles in your group’s management?**
 
-How will decisions be made? By leader, consensus?
+There are no management roles. Everybody is as much in charge as everybody else. We strive to be a flatly organized team.
 
-How will you communicate? Email, meetings in the lab, discussion board?
+**How will decisions be made? By leader, consensus?**
 
-How will you know when you’re off schedule, and how will you deal with schedule slips?
+Decisions will be made by consensus.
 
-Who is responsible for which deliverables and milestones?
+**How will you communicate? Email, meetings in the lab, discussion board?**
 
-Who will produce the weekly group status reports?
+We will communicate through Google Hangouts and texting on top of meeting in person once or more a week.
+
+**How will you know when you’re off schedule, and how will you deal with schedule slips?**
+
+If Otto isn't working as we'd hoped by when we'd hoped, we'll just retroactively edit our schedule so that we can be back on schedule.
+
+**Who is responsible for which deliverables and milestones?**
+
+Everybody is equally responsible. Everyone in the group is expected to volunteer to work towards finishing the project.
+
+**Who will produce the weekly group status reports?**
+Probably Rustin, but we'll see.
 
 ##Project Development
 
-What are the development roles and who will handle them?
+**What are the development roles and who will handle them?**
+There are no specific roles. Everyone on the team will volunteer to do whatever needs to get done.
 
-What hardware/software will you use? What do you have available? What do you need?
+**What hardware/software will you use? What do you have available? What do you need?**
 
-If there is software/hardware that is needed, provide a justification for its cost. Where will you order it? When will it arrive?
+We need an Adrduino, Raspberry Pi, solenoid valves, peristaltic pump, resistors, transistors, diodes, LEDs, power supply, mini fridge, connecting tubing and hardware, and probably some more stuff that we'll figure out later.
 
-How will you do testing?
+**If there is software/hardware that is needed, provide a justification for its cost. Where will you order it? When will it arrive?**
 
-How will you do documentation?
+This hardware is necessary because without it we can't build Otto. We've already ordered and received most of it. A lot of stuff is available in San Diego. All of it is available from America to shorten shipping times.
+
+**How will you do testing?**
+
+By getting very drunk.
+
+**How will you do documentation?**
+
+By getting very drunk.
 
 ##Project Schedule
 
