@@ -61,7 +61,7 @@ But realistically, if Otto isn't working as we'd hoped by when we'd hoped, we'll
 Everybody is equally responsible. Everyone in the group is expected to volunteer to work towards finishing the project.
 
 **Who will produce the weekly group status reports?**
-Probably Rustin, but we'll see.
+Probably Rustin. He has the best handwriting.
 
 ##Project Development
 
@@ -70,11 +70,11 @@ There are no specific roles. Everyone on the team will volunteer to do whatever 
 
 **What hardware/software will you use? What do you have available? What do you need?**
 
-We need an Adrduino, Raspberry Pi, solenoid valves, peristaltic pump, resistors, transistors, diodes, LEDs, power supply, mini fridge, connecting tubing and hardware, and probably some more stuff that we'll figure out later.
+We need an Adrduino, Raspberry Pi, various solenoid valves, peristaltic pump, resistors, transistors, diodes, LEDs, a power supply, a mini fridge, connecting tubing and hardware, and probably some more stuff that we'll figure out later. This is all subject to change.
 
 **If there is software/hardware that is needed, provide a justification for its cost. Where will you order it? When will it arrive?**
 
-This hardware is necessary because without it we can't build Otto. We've already ordered and received most of it. A lot of stuff is available in San Diego. All of it is available from America to shorten shipping times.
+This hardware is necessary because without it we can't build Otto. We've already ordered and received most of it. A lot of stuff is available in San Diego. All of it is available from America to shorten shipping times and reduce lead content.
 
 **How will you do testing?**
 
@@ -86,15 +86,15 @@ By getting very drunk.
 
 ##Project Schedule
 
-1. Open/close solenoid (Completed! - April 11th)
-2. Connect solenoid to bottle (Expected - April 19)
-3. Consistently dispense one ounce (Expected - April 20)
-4. Rig up all 6 liquor solenoids (Expected - April 25)
-5. Dispense from multiple sources into glass (Expected - April 26)
-6. LEDs up in this bitch (Expected - April 26)
-7. Run peristaltic pump with just one mixer (Expected - May 1)
-8. Extend pump setup with 6 mixers and their respective solenoids (Expected - May 3)
-9. More LEDs (Expected - May 3)
-10. Mount everything (Expected - May 21)
-11. Make an AMF (our benchmark drink) (Expected - May 30)
-12. Make it pretty (optional) (Expected - June 4)
+**1** &nbsp;Open/close solenoid (Completed! - April 11th)<br>
+**2** &nbsp;Connect solenoid to bottle (Expected - April 19)<br>
+**3** &nbsp;Consistently dispense one ounce (Expected - April 20)<br>
+**4** &nbsp;Rig up all 6 liquor solenoids (Expected - April 25)<br>
+**5** &nbsp;Dispense from multiple sources into glass (Expected - April 26)<br>
+**6** &nbsp;LEDs up in this bitch (Expected - April 26)<br>
+**7** &nbsp;Run peristaltic pump with just one mixer (Expected - May 1)<br>
+**8** &nbsp;Extend pump setup with 6 mixers and their respective solenoids (Expected - May 3)<br>
+**9** &nbsp;More LEDs (Expected - May 3)<br>
+**10** Mount everything (Expected - May 21)<br>
+**11** Make an AMF (our benchmark drink) (Expected - May 30)<br>
+**12** Make it pretty (optional) (Expected - June 4)<br>
