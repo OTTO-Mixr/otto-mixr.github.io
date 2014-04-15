@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://OTTO-Mixr.github.io/atom.xml" rel="self"/>
   <link href="http://OTTO-Mixr.github.io/"/>
-  <updated>2014-04-14T10:48:57-07:00</updated>
+  <updated>2014-04-14T18:57:46-07:00</updated>
   <id>http://OTTO-Mixr.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -20,42 +20,74 @@
     <id>http://OTTO-Mixr.github.io/blog/2014/04/13/charter</id>
     <content type="html"><![CDATA[<h2>Project Charter</h2>
 
-<p>Project Overview – Describe the project briefly in layman’s terms (one that your grandmother could understand). This should not be more than a few sentences.</p>
+<h3>Project Overview</h3>
+
+<p>Otto is your personalized, robot bartender. Simply send a drink order to Otto from your phone, tablet, or computer and the drink will be prepared otto-matically to your tastes.</p>
 
 <!--more-->
 
 
-<p>Project Approach – Provide more technical detail (one that other students could understand). List the team members and their roles.</p>
+<h3>Project Approach – Otto</h3>
 
-<p>Project Objectives, Milestones and Major Deliverables – List your objectives and milestones without getting too detailed (you will do that later). What are the specific goals of the project for this quarter? What are potential longer term goals? Deliverables should include a description, a date, and the persons who are responsible.</p>
+<p>Otto has three key components: the liquor, the mixers, and the glass. The liquor will be gravity fed and regulated by solenoids hooked up to the Arduino. The mixers are a little trickier since they need to be refrigerated. They will be kept in a mini-fridge down below (where they are also regulated by solenoids) and pumped upwards by a powerful peristaltic pump. The glass will remain stationary and be fed by the appropriate tubes.</p>
 
-<p>Constraints, Risk and Feasibility – What are the potential stumbling blocks? What is realistically feasible here? The quarter goes by very quickly. The better approach is to over-deliver on what you promise, rather than under deliver on a set of unrealistic goals. Be sure to include risks – a list of things that could go wrong and how to avoid them.</p>
+<p>On the software side of things, the Arduino will be hooked up to a Raspberry Pi running node.js. Here we&rsquo;ll host a website that allows users to order their drinks.</p>
+
+<p>The team members are Rustin Manafian, Chris Weller, and Ryne Chaloux. Everyone on the team is equally experienced in the skills required for this project, so the roles are fluid and adaptable.</p>
+
+<h3>Project Objectives, Milestones and Major Deliverables</h3>
+
+<p>List your objectives and milestones without getting too detailed (you will do that later). What are the specific goals of the project for this quarter? What are potential longer term goals? Deliverables should include a description, a date, and the persons who are responsible.</p>
+
+<h3>Constraints, Risk and Feasibility</h3>
+
+<p>What are the potential stumbling blocks? What is realistically feasible here? The quarter goes by very quickly. The better approach is to over-deliver on what you promise, rather than under deliver on a set of unrealistic goals. Be sure to include risks – a list of things that could go wrong and how to avoid them.</p>
 
 <h2>Group Management</h2>
 
-<p>What are the major roles in your group’s management?</p>
+<p><strong>What are the major roles in your group’s management?</strong></p>
 
-<p>How will decisions be made? By leader, consensus?</p>
+<p>There are no management roles. Everybody is as much in charge as everybody else. We strive to be a flatly organized team.</p>
 
-<p>How will you communicate? Email, meetings in the lab, discussion board?</p>
+<p><strong>How will decisions be made? By leader, consensus?</strong></p>
 
-<p>How will you know when you’re off schedule, and how will you deal with schedule slips?</p>
+<p>Decisions will be made by consensus.</p>
 
-<p>Who is responsible for which deliverables and milestones?</p>
+<p><strong>How will you communicate? Email, meetings in the lab, discussion board?</strong></p>
 
-<p>Who will produce the weekly group status reports?</p>
+<p>We will communicate through Google Hangouts and texting on top of meeting in person once or more a week.</p>
+
+<p><strong>How will you know when you’re off schedule, and how will you deal with schedule slips?</strong></p>
+
+<p>If Otto isn&rsquo;t working as we&rsquo;d hoped by when we&rsquo;d hoped, we&rsquo;ll just retroactively edit our schedule so that we can be back on schedule.</p>
+
+<p><strong>Who is responsible for which deliverables and milestones?</strong></p>
+
+<p>Everybody is equally responsible. Everyone in the group is expected to volunteer to work towards finishing the project.</p>
+
+<p><strong>Who will produce the weekly group status reports?</strong>
+Probably Rustin, but we&rsquo;ll see.</p>
 
 <h2>Project Development</h2>
 
-<p>What are the development roles and who will handle them?</p>
+<p><strong>What are the development roles and who will handle them?</strong>
+There are no specific roles. Everyone on the team will volunteer to do whatever needs to get done.</p>
 
-<p>What hardware/software will you use? What do you have available? What do you need?</p>
+<p><strong>What hardware/software will you use? What do you have available? What do you need?</strong></p>
 
-<p>If there is software/hardware that is needed, provide a justification for its cost. Where will you order it? When will it arrive?</p>
+<p>We need an Adrduino, Raspberry Pi, solenoid valves, peristaltic pump, resistors, transistors, diodes, LEDs, power supply, mini fridge, connecting tubing and hardware, and probably some more stuff that we&rsquo;ll figure out later.</p>
 
-<p>How will you do testing?</p>
+<p><strong>If there is software/hardware that is needed, provide a justification for its cost. Where will you order it? When will it arrive?</strong></p>
 
-<p>How will you do documentation?</p>
+<p>This hardware is necessary because without it we can&rsquo;t build Otto. We&rsquo;ve already ordered and received most of it. A lot of stuff is available in San Diego. All of it is available from America to shorten shipping times.</p>
+
+<p><strong>How will you do testing?</strong></p>
+
+<p>By getting very drunk.</p>
+
+<p><strong>How will you do documentation?</strong></p>
+
+<p>By getting very drunk.</p>
 
 <h2>Project Schedule</h2>
 
