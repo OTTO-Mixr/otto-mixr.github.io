@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://OTTO-Mixr.github.io/atom.xml" rel="self"/>
   <link href="http://OTTO-Mixr.github.io/"/>
-  <updated>2014-04-14T23:47:35-07:00</updated>
+  <updated>2014-04-15T00:00:50-07:00</updated>
   <id>http://OTTO-Mixr.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -113,6 +113,8 @@ There are no specific roles. Everyone on the team will volunteer to do whatever 
 <strong>10</strong> Mount everything (Expected &ndash; May 21)<br>
 <strong>11</strong> Make an AMF (our benchmark drink) (Expected &ndash; May 30)<br>
 <strong>12</strong> Make it pretty (optional) (Expected &ndash; June 4)<br></p>
+
+<p>These steps are ordered by both priority and logical ordering. The way this project is structured, it doesn&rsquo;t exactly lend itself to specific key and sub milestones. All are necessary and integral to delivering the promised tangible aside from the adornment of LED&rsquo;s and making it pretty, and the sub tasks are so minute (ie soldering wires) that their inclusion would defeat the purposes of an abstracted, at-a-glance calendar.</p>
 ]]></content>
   </entry>
   
