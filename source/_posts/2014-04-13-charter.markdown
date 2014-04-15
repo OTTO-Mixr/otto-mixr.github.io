@@ -98,3 +98,6 @@ By getting very drunk.
 **10** Mount everything (Expected - May 21)<br>
 **11** Make an AMF (our benchmark drink) (Expected - May 30)<br>
 **12** Make it pretty (optional) (Expected - June 4)<br>
+
+These steps are ordered by both priority and logical ordering. The way this project is structured, it doesn't exactly lend itself to specific key and sub milestones. All are necessary and integral to delivering the promised tangible aside from the adornment of LED's and making it pretty, and the sub tasks are so minute (ie soldering wires) that their inclusion would defeat the purposes of an abstracted, at-a-glance calendar.
+
