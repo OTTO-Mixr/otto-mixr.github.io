@@ -76,4 +76,15 @@ By getting very drunk.
 
 ##Project Schedule
 
-Define a set of milestones with a specific definition of what each milestone is, what it means to complete each milestone, and when you expect to complete them. Define the milestones at two scales, a high level set of key milestones, and a low level set of weekly milestones. Also prioritize them. Some that are necessary, others that are useful, some are hopeful if time permits, etc. Gantt charts are often helpful to better visualize the milestones and understand their dependencies.
+1. Open/close solenoid (Completed! - April 11th)
+2. Connect solenoid to bottle (Expected - April 19)
+3. Consistently dispense one ounce (Expected - April 20)
+4. Rig up all 6 liquor solenoids (Expected - April 25)
+5. Dispense from multiple sources into glass (Expected - April 26)
+6. LEDs up in this bitch (Expected - April 26)
+7. Run peristaltic pump with just one mixer (Expected - May 1)
+8. Extend pump setup with 6 mixers and their respective solenoids (Expected - May 3)
+9. More LEDs (Expected - May 3)
+10. Mount everything (Expected - May 21)
+11. Make an AMF (our benchmark drink) (Expected - May 30)
+12. Make it pretty (optional) (Expected - June 4)
