@@ -52,7 +52,9 @@ We will communicate through Google Hangouts and texting on top of meeting in per
 
 **How will you know when you’re off schedule, and how will you deal with schedule slips?**
 
-If Otto isn't working as we'd hoped by when we'd hoped, we'll just retroactively edit our schedule so that we can be back on schedule.
+Seeings as our milestones are laid out already, it's fairly negligable for us to check against them in our weekly meetings. If we aren't actively making progress on any one milestone from week to week, we'll know we've got a problem. Should we have schedule slips, we'll deal with them on a case by case basis.
+
+But realistically, if Otto isn't working as we'd hoped by when we'd hoped, we'll just retroactively edit our schedule so that we can be back on schedule.
 
 **Who is responsible for which deliverables and milestones?**
 
