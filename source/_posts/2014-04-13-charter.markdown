@@ -1,32 +1,40 @@
 ---
 layout: post
-title: "Charter"
+title: "Project Charter and Other Good Stuff"
 date: 2014-04-13 19:43:05 -0700
 comments: true
 categories: 
 ---
 
-##Project Charter
-
-###Project Overview
+### A Brief Overview
 
 Otto is your personalized, robot bartender. Simply send a drink order to Otto from your phone, tablet, or computer and the drink will be prepared otto-matically to your tastes. 
 <!--more-->
-###Project Approach – Otto
+### Our Approach – Otto
 
-Otto has three key components: the liquor, the mixers, and the glass. The liquor will be gravity fed and regulated by solenoids hooked up to the Arduino. The mixers are a little trickier since they need to be refrigerated. They will be kept in a mini-fridge down below (where they are also regulated by solenoids) and pumped upwards by a powerful peristaltic pump. The glass will remain stationary and be fed by the appropriate tubes.
+Otto has three key components: the liquor, the mixers, and the glass. The liquor will be gravity fed and regulated via solenoids hooked up to the Arduino. The mixers are a little trickier since by and large they need to be refrigerated. To address this, we'll keep the mixers in a minifridge beneath the main unit (where they are also regulated by solenoids) and pumped upwards by a powerful peristaltic pump. The glass will idealy remain stationary and be fed by the appropriate tubes.
 
-On the software side of things, the Arduino will be hooked up to a Raspberry Pi running node.js. Here we'll host a website that allows users to order their drinks.
+On the software side of things, the Arduino will be hooked up to a Raspberry Pi functioning as a server running node.js. Here we'll host a website that allows users to order their drinks and interface with Otto easily and conveniently.
 
-The team members are Rustin Manafian, Chris Weller, and Ryne Chaloux. Everyone on the team is equally experienced in the skills required for this project, so the roles are fluid and adaptable.
+The team members are Rustin Manafian, Chris Weller, and Ryne Chaloux. Everyone on the team is equally experienced in the skills required for this project, so the roles are fluid and adaptable. Individual ownership of various parts of the project can be determined as the need for it arises, but this project will be managed as a pseudo-flat organization.
 
-###Project Objectives, Milestones and Major Deliverables 
+### Objectives, Milestones and the "What" of Otto
 
-List your objectives and milestones without getting too detailed (you will do that later). What are the specific goals of the project for this quarter? What are potential longer term goals? Deliverables should include a description, a date, and the persons who are responsible.
+Ideally by the end of our 10 week sprint, we'd like to have a deliverable, bartending robot capable of making basic cocktails and getting you drunk for $500 or less. A rough outline of what this might entail on the production side of things would be to start by opening and closing the valves, get excited once we've figured out how to rig up all the mixers, and offer up a toast once our first shot's been poured.
 
-###Constraints, Risk and Feasibility
+Any potential long term goals would be centered around getting the user liquored up faster, cheaper, and in a more stylish way.
 
-What are the potential stumbling blocks? What is realistically feasible here? The quarter goes by very quickly. The better approach is to over-deliver on what you promise, rather than under deliver on a set of unrealistic goals. Be sure to include risks – a list of things that could go wrong and how to avoid them.
+The primary deliverable would be...
+
+__06/06/14__ Otto, the project we've been rambling on about. 
+
+We will all be held equally responsible for this.
+
+### Constraints, Risk and Feasibility, and Other Excuses
+
+Seeing as none of us have taken on a hardware project of this stature, simply learning all the necessary components of circuit design and implementation is one such risk taken with this project. However, after a cursory search when we came up with the project (and now further in, having been entrenched in hardware design for the past 3 weeks), we have determined that while ambitious, this project is feasible. 
+
+Other potential stumbling blocks include lack of viable suppliers or back ordered supplies, tight budgets, design issues such as where and how to mount what, and various things of that nature. Thankfully we've already mitigated most of these concerns. We've set a soft budge we've all agreed upon of roughly $500, we've bought and sourced parts from local suppliers, and we're actively consulting people with lightyears more experience than us in the food safe hardware field.
 
 ##Group Management
 
@@ -36,15 +44,17 @@ There are no management roles. Everybody is as much in charge as everybody else.
 
 **How will decisions be made? By leader, consensus?**
 
-Decisions will be made by consensus.
+Decisions will be made by consensus. An odd number ensures tie breaking, and if anyone's on the fence, [Random.org](http://random.org) is here to save the day.
 
 **How will you communicate? Email, meetings in the lab, discussion board?**
 
-We will communicate through Google Hangouts and texting on top of meeting in person once or more a week.
+We will communicate through Google Hangouts and texting on top of meeting in person once or more a week as needed. We're all guaranteed to be on campus at various times throughout the week, and we've set up a Google Calandar that reflects this.
 
 **How will you know when you’re off schedule, and how will you deal with schedule slips?**
 
-If Otto isn't working as we'd hoped by when we'd hoped, we'll just retroactively edit our schedule so that we can be back on schedule.
+Seeings as our milestones are laid out already, it's fairly negligable for us to check against them in our weekly meetings. If we aren't actively making progress on any one milestone from week to week, we'll know we've got a problem. Should we have schedule slips, we'll deal with them on a case by case basis.
+
+But realistically, if Otto isn't working as we'd hoped by when we'd hoped, we'll just retroactively edit our schedule so that we can be back on schedule.
 
 **Who is responsible for which deliverables and milestones?**
 
