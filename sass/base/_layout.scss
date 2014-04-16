@@ -201,3 +201,20 @@ article {
     text-transform: none;
   }
 }
+
+.post-row {
+  @extend .social-icon-list;
+
+  text-align: center;
+  background: #272727;
+
+  padding-top:    2px;
+  padding-bottom: 2px;
+
+  a {
+    color:white;
+    font-weight: 300;
+    font-size: large;
+    opacity: 0.6;
+  }
+}

@@ -8,7 +8,6 @@ layout: default
   </div>
 
   <div class="home-field">
-    {% include custom/nav-docs.html %}
     <div class="home-landing her-row">
       <div class="container">
         <div class="row">
@@ -16,7 +15,6 @@ layout: default
         </div>
       </div>
     </div>
-
 
     <div class="article-list">
       <div class="container">
