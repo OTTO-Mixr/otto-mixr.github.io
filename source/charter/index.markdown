@@ -101,4 +101,3 @@ By getting very drunk.
 **12** Make it pretty (optional) (Expected - June 4)<br>
 
 These steps are ordered by both priority and logical ordering. The way this project is structured, it doesn't exactly lend itself to specific key and sub milestones. All are necessary and integral to delivering the promised tangible aside from the adornment of LED's and making it pretty, and the sub tasks are so minute (ie soldering wires) that their inclusion would defeat the purposes of an abstracted, at-a-glance calendar.
-
