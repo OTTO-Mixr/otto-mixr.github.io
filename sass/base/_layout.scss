@@ -127,10 +127,13 @@ article {
 }
 
 .social-icon-list a {
-  opacity: 0.3;
+  opacity: 0.4;
+  color: black;
+  font-size: large;
+  font-weight: 300;
 
   &:hover {
-    opacity: 0.6;
+    opacity: 0.8;
   }
 }
 
