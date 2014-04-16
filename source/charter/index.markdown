@@ -3,12 +3,12 @@ layout: post
 title: "Project Charter and Other Good Stuff"
 date: 2014-04-13 19:43:05 -0700
 comments: true
-categories: 
+categories:
 ---
 
 ### A Brief Overview
 
-Otto is your personalized, robot bartender. Simply send a drink order to Otto from your phone, tablet, or computer and the drink will be prepared otto-matically to your tastes. 
+Otto is your personalized, robot bartender. Simply send a drink order to Otto from your phone, tablet, or computer and the drink will be prepared otto-matically to your tastes.
 <!--more-->
 ### Our Approach – Otto
 
@@ -26,13 +26,13 @@ Any potential long term goals would be centered around getting the user liquored
 
 The primary deliverable would be...
 
-__06/06/14__ Otto, the project we've been rambling on about. 
+__06/06/14__ Otto, the project we've been rambling on about.
 
 We will all be held equally responsible for this.
 
 ### Constraints, Risk and Feasibility, and Other Excuses
 
-Seeing as none of us have taken on a hardware project of this stature, simply learning all the necessary components of circuit design and implementation is one such risk taken with this project. However, after a cursory search when we came up with the project (and now further in, having been entrenched in hardware design for the past 3 weeks), we have determined that while ambitious, this project is feasible. 
+Seeing as none of us have taken on a hardware project of this stature, simply learning all the necessary components of circuit design and implementation is one such risk taken with this project. However, after a cursory search when we came up with the project (and now further in, having been entrenched in hardware design for the past 3 weeks), we have determined that while ambitious, this project is feasible.
 
 Other potential stumbling blocks include lack of viable suppliers or back ordered supplies, tight budgets, design issues such as where and how to mount what, and various things of that nature. Thankfully we've already mitigated most of these concerns. We've set a soft budge we've all agreed upon of roughly $500, we've bought and sourced parts from local suppliers, and we're actively consulting people with light years more experience than us in the food safe hardware field.
 
@@ -100,4 +100,3 @@ By getting very drunk.
 **12** Make it pretty (optional) (Expected - June 4)<br>
 
 These steps are ordered by both priority and logical ordering. The way this project is structured, it doesn't exactly lend itself to specific key and sub milestones. All are necessary and integral to delivering the promised tangible aside from the adornment of LED's and making it pretty, and the sub tasks are so minute (ie soldering wires) that their inclusion would defeat the purposes of an abstracted, at-a-glance calendar.
-
