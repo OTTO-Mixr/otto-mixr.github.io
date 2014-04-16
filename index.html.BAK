@@ -14,7 +14,7 @@
 
   
   <meta name="description" content="Introducing Otto
-The Truly Open Mixer Project Charter and Other Good Stuff Bringing the Bar Experience to You Otto is all about convenience and &hellip;">
+The Truly Open Mixer Bringing the Bar Experience to You Otto is all about convenience and class with a DIY flair. Whether you're &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -23,7 +23,7 @@ The Truly Open Mixer Project Charter and Other Good Stuff Bringing the Bar Exper
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://OTTO-Mixr.github.io">
+  <link rel="canonical" href="http://OTTO-Mixr.github.io/.BAK">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <link href="/atom.xml" rel="alternate" title="Otto, The Truly Open Mixer" type="application/atom+xml">
@@ -48,22 +48,18 @@ The Truly Open Mixer Project Charter and Other Good Stuff Bringing the Bar Exper
   </div>
 
   <div class="home-field">
-    <div class="post-row">
-  <a title="Project Charter and Other Good Stuff" href="/charter">Project Charter and Other Good Stuff </a>
-</div>
-
     <div class="home-landing her-row">
       <div class="container">
         <div class="row">
           <div id="about-me" class="col-md-offset-3 col-md-6">
   <h4>Bringing the Bar Experience to You</h4>
-  <p>Otto is all about convenience and class with a DIY flair. Whether you&#8217;re entertaining friends on a Saturday evening or having a night in for a party of one, Otto is the first and last automated bartender to fit your needs and your budget.</p>
+  <p>Otto is all about convenience and class with a DIY flair. Whether you're entertaining friends on a Saturday evening or having a night in for a party of one, Otto is the first and last automated bartender to fit your needs and your budget.</p>
 
   <!-- -->
   <div class="social-icon-list">
     <a></a>
-    <!--<a title="GitHub" href="https://github.com/sevenadrian"><img src="/images/glyphicons_social_21_github.png"/></a>&#8211;>
-    <!--<a title="Project Charter and Other Good Stuff" href="/charter">Project Charter and Other Good Stuff </a>&#8211;>
+    <!--<a title="GitHub" href="https://github.com/sevenadrian"><img src="/images/glyphicons_social_21_github.png"/></a>-->
+    <!--<a title="Project Charter and Other Good Stuff" href="/charter">Project Charter and Other Good Stuff </a>-->
   </div>
  <!-- -->
 
@@ -73,47 +69,8 @@ The Truly Open Mixer Project Charter and Other Good Stuff Bringing the Bar Exper
       </div>
     </div>
 
-
     <div class="article-list">
       <div class="container">
-        
-          
-          <div class="row">
-            <div class="col-md-offset-3 col-md-6">
-              <article>
-  <h2><a href="/blog/2014/04/13/the-story-so-far/">The Story So Far</a></h2>
-  
-  <p>
-    <p><p>We started out having no idea how we could make OTTO a reality. Well, to go back a bit further, we started out having no idea what project we were actually competent enough to complete. An acoustic keyboard sniffer? Too much math. A differential power analysis attack? Too much what the fuck is this. An automated pancake flipper? Too many carbs. OTTO came to fruition because it was the perfect mix of engaging to work on, exciting to demo, and a good excuse to get trashed before 5.</p>
-
-  </p>
-  <span class="meta">
-    written 
-
-
-
-
-
-
-
-
-  
-
-
-
-<time datetime="2014-04-13T11:58:43-07:00" pubdate data-updated="true">Apr 13<span>th</span>, 2014</time> in 
-    
-
-
-  </span>
-
-  
-    <a class="full-article-link pull-right" rel="full-article" href="/blog/2014/04/13/the-story-so-far/">Read on &rarr;</a>
-  
-</article>
-
-            </div>
-          </div>
         
       </div>
     </div>
