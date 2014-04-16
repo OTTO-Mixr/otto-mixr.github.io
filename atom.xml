@@ -4,7 +4,7 @@
   <title><![CDATA[Otto, The Truly Open Mixer]]></title>
   <link href="http://OTTO-Mixr.github.io/atom.xml" rel="self"/>
   <link href="http://OTTO-Mixr.github.io/"/>
-  <updated>2014-04-16T11:56:06-07:00</updated>
+  <updated>2014-04-16T12:19:14-07:00</updated>
   <id>http://OTTO-Mixr.github.io/</id>
   <author>
     <name><![CDATA[Team OTTO]]></name>
@@ -12,111 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Project Charter and Other Good Stuff]]></title>
-    <link href="http://OTTO-Mixr.github.io/blog/2014/04/13/charter/"/>
-    <updated>2014-04-13T19:43:05-07:00</updated>
-    <id>http://OTTO-Mixr.github.io/blog/2014/04/13/charter</id>
-    <content type="html"><![CDATA[<h3>A Brief Overview</h3>
-
-<p>Otto is your personalized, robot bartender. Simply send a drink order to Otto from your phone, tablet, or computer and the drink will be prepared otto-matically to your tastes.</p>
-
-<!--more-->
-
-
-<h3>Our Approach – Otto</h3>
-
-<p>Otto has three key components: the liquor, the mixers, and the glass. The liquor will be gravity fed and regulated via solenoids hooked up to the Arduino. The mixers are a little trickier since by and large they need to be refrigerated. To address this, we&rsquo;ll keep the mixers in a minifridge beneath the main unit (where they are also regulated by solenoids) and pumped upwards by a powerful peristaltic pump. The glass will ideally remain stationary and be fed by the appropriate tubes.</p>
-
-<p>On the software side of things, the Arduino will be hooked up to a Raspberry Pi functioning as a server running node.js. Here we&rsquo;ll host a website that allows users to order their drinks and interface with Otto easily and conveniently.</p>
-
-<p>The team members are Rustin Manafian, Chris Weller, and Ryne Chaloux. Everyone on the team is equally experienced in the skills required for this project, so the roles are fluid and adaptable. Individual ownership of various parts of the project can be determined as the need for it arises, but this project will be managed as a pseudo-flat organization.</p>
-
-<h3>Objectives, Milestones and the &ldquo;What&rdquo; of Otto</h3>
-
-<p>Ideally by the end of our 10 week sprint, we&rsquo;d like to have a deliverable, bar tending robot capable of making basic cocktails and getting you drunk for $500 or less. A rough outline of what this might entail on the production side of things would be to start by opening and closing the valves, get excited once we&rsquo;ve figured out how to rig up all the mixers, and offer up a toast once our first shot&rsquo;s been poured.</p>
-
-<p>Any potential long term goals would be centered around getting the user liquored up faster, cheaper, and in a more stylish way.</p>
-
-<p>The primary deliverable would be&hellip;</p>
-
-<p><strong>06/06/14</strong> Otto, the project we&rsquo;ve been rambling on about.</p>
-
-<p>We will all be held equally responsible for this.</p>
-
-<h3>Constraints, Risk and Feasibility, and Other Excuses</h3>
-
-<p>Seeing as none of us have taken on a hardware project of this stature, simply learning all the necessary components of circuit design and implementation is one such risk taken with this project. However, after a cursory search when we came up with the project (and now further in, having been entrenched in hardware design for the past 3 weeks), we have determined that while ambitious, this project is feasible.</p>
-
-<p>Other potential stumbling blocks include lack of viable suppliers or back ordered supplies, tight budgets, design issues such as where and how to mount what, and various things of that nature. Thankfully we&rsquo;ve already mitigated most of these concerns. We&rsquo;ve set a soft budge we&rsquo;ve all agreed upon of roughly $500, we&rsquo;ve bought and sourced parts from local suppliers, and we&rsquo;re actively consulting people with light years more experience than us in the food safe hardware field.</p>
-
-<h2>Group Management</h2>
-
-<p><strong>What are the major roles in your group’s management?</strong></p>
-
-<p>There are no management roles. Everybody is as much in charge as everybody else. We strive to be a flatly organized team.</p>
-
-<p><strong>How will decisions be made? By leader, consensus?</strong></p>
-
-<p>Decisions will be made by consensus. An odd number ensures tie breaking, and if anyone&rsquo;s on the fence, <a href="http://random.org">Random.org</a> is here to save the day.</p>
-
-<p><strong>How will you communicate? Email, meetings in the lab, discussion board?</strong></p>
-
-<p>We will communicate through Google Hangouts and texting on top of meeting in person once or more a week as needed. We&rsquo;re all guaranteed to be on campus at various times throughout the week, and we&rsquo;ve set up a Google Calendar that reflects this.</p>
-
-<p><strong>How will you know when you’re off schedule, and how will you deal with schedule slips?</strong></p>
-
-<p>Seeings as our milestones are laid out already, it&rsquo;s fairly negligible for us to check against them in our weekly meetings. If we aren&rsquo;t actively making progress on any one milestone from week to week, we&rsquo;ll know we&rsquo;ve got a problem. Should we have schedule slips, we&rsquo;ll deal with them on a case by case basis.</p>
-
-<p>But realistically, if Otto isn&rsquo;t working as we&rsquo;d hoped by when we&rsquo;d hoped, we&rsquo;ll just retroactively edit our schedule so that we can be back on schedule.</p>
-
-<p><strong>Who is responsible for which deliverables and milestones?</strong></p>
-
-<p>Everybody is equally responsible. Everyone in the group is expected to volunteer to work towards finishing the project.</p>
-
-<p><strong>Who will produce the weekly group status reports?</strong>
-Probably Rustin. He has the best handwriting.</p>
-
-<h2>Project Development</h2>
-
-<p><strong>What are the development roles and who will handle them?</strong>
-There are no specific roles. Everyone on the team will volunteer to do whatever needs to get done.</p>
-
-<p><strong>What hardware/software will you use? What do you have available? What do you need?</strong></p>
-
-<p>We need an Arduino, Raspberry Pi, various solenoid valves, peristaltic pump, resistors, transistors, diodes, LEDs, a power supply, a mini fridge, connecting tubing and hardware, and probably some more stuff that we&rsquo;ll figure out later. This is all subject to change.</p>
-
-<p><strong>If there is software/hardware that is needed, provide a justification for its cost. Where will you order it? When will it arrive?</strong></p>
-
-<p>This hardware is necessary because without it we can&rsquo;t build Otto. We&rsquo;ve already ordered and received most of it. A lot of stuff is available in San Diego. All of it is available from America to shorten shipping times and reduce lead content.</p>
-
-<p><strong>How will you do testing?</strong></p>
-
-<p>By getting very drunk.</p>
-
-<p><strong>How will you do documentation?</strong></p>
-
-<p>By getting very drunk.</p>
-
-<h2>Project Schedule</h2>
-
-<p><strong>1</strong> &nbsp;Open/close solenoid (Completed! &ndash; April 11th)<br>
-<strong>2</strong> &nbsp;Connect solenoid to bottle (Expected &ndash; April 19)<br>
-<strong>3</strong> &nbsp;Consistently dispense one ounce (Expected &ndash; April 20)<br>
-<strong>4</strong> &nbsp;Rig up all 6 liquor solenoids (Expected &ndash; April 25)<br>
-<strong>5</strong> &nbsp;Dispense from multiple sources into glass (Expected &ndash; April 26)<br>
-<strong>6</strong> &nbsp;LEDs up in this bitch (Expected &ndash; April 26)<br>
-<strong>7</strong> &nbsp;Run peristaltic pump with just one mixer (Expected &ndash; May 1)<br>
-<strong>8</strong> &nbsp;Extend pump setup with 6 mixers and their respective solenoids (Expected &ndash; May 3)<br>
-<strong>9</strong> &nbsp;More LEDs (Expected &ndash; May 3)<br>
-<strong>10</strong> Mount everything (Expected &ndash; May 21)<br>
-<strong>11</strong> Make an AMF (our benchmark drink) (Expected &ndash; May 30)<br>
-<strong>12</strong> Make it pretty (optional) (Expected &ndash; June 4)<br></p>
-
-<p>These steps are ordered by both priority and logical ordering. The way this project is structured, it doesn&rsquo;t exactly lend itself to specific key and sub milestones. All are necessary and integral to delivering the promised tangible aside from the adornment of LED&rsquo;s and making it pretty, and the sub tasks are so minute (ie soldering wires) that their inclusion would defeat the purposes of an abstracted, at-a-glance calendar.</p>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Story So Far]]></title>
