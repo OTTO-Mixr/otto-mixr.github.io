@@ -1,7 +1,7 @@
 ---
-layout: page
-title: "charter"
-date: 2014-04-16 12:08
+layout: charter
+title: "Project Charter and Other Good Stuff"
+date: 2014-04-12 12:08
 comments: true
 sharing: true
 footer: true
