@@ -205,16 +205,21 @@ article {
 .post-row {
   @extend .social-icon-list;
 
+  color:white;
+  font-size: large;
+  font-weight: 100;
+
   text-align: center;
   background: #272727;
 
-  padding-top:    2px;
-  padding-bottom: 2px;
-
   a {
+    padding-top:    2px;
+    padding-bottom: 2px;
+
     color:white;
-    font-weight: 300;
     font-size: large;
+    font-weight: 300;
     opacity: 0.6;
   }
+
 }
