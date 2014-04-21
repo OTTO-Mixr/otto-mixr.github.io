@@ -4,7 +4,7 @@
   <title><![CDATA[Otto, The Truly Open Mixer]]></title>
   <link href="http://OTTO-Mixr.github.io/atom.xml" rel="self"/>
   <link href="http://OTTO-Mixr.github.io/"/>
-  <updated>2014-04-20T23:37:39-07:00</updated>
+  <updated>2014-04-20T23:41:35-07:00</updated>
   <id>http://OTTO-Mixr.github.io/</id>
   <author>
     <name><![CDATA[Team OTTO]]></name>
@@ -21,6 +21,9 @@
     <content type="html"><![CDATA[<p>The title says it all. Check out the video below and then we&rsquo;ll walk you through the technical stuff afterwards.</p>
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/liqCEJRP9Pk" frameborder="0" allowfullscreen></iframe>
+
+
+<!--more-->
 
 
 <p>As you may have been able to ascertain, we were a little excited about pouring that first shot. That was our first take and we honestly didn&rsquo;t expect it to work. We had our fair share of hurdles and were totally blown away by the outcome.</p>
