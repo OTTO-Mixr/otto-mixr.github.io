@@ -8,7 +8,9 @@ categories:
 
 The title says it all. Check out the video below and then we'll walk you through the technical stuff afterwards.
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/liqCEJRP9Pk" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'>
+<iframe src="//www.youtube.com/embed/liqCEJRP9Pk" frameborder="0" allowfullscreen></iframe>
+</div>
 <!--more-->
 As you may have been able to ascertain, we were a little excited about pouring that first shot. That was our first take and we honestly didn't expect it to work. We had our fair share of hurdles and were totally blown away by the outcome.
 
