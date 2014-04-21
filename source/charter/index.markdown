@@ -88,8 +88,8 @@ By getting very drunk.
 ##Project Schedule
 
 **1** &nbsp;Open/close solenoid (Completed! - April 11th)<br>
-**2** &nbsp;Connect solenoid to bottle (Expected - April 19)<br>
-**3** &nbsp;Consistently dispense one ounce (Expected - April 20)<br>
+**2** &nbsp;Connect solenoid to bottle (~~Expected - April 19~~ Completed! - April 20th)<br>
+**3** &nbsp;Consistently dispense one ounce (~~Expected - April 20~~Completed! - April 20th)<br>
 **4** &nbsp;Rig up all 6 liquor solenoids (Expected - April 25)<br>
 **5** &nbsp;Dispense from multiple sources into glass (Expected - April 26)<br>
 **6** &nbsp;LEDs up in this bitch (Expected - April 26)<br>
