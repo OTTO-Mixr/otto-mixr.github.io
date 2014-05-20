@@ -62,10 +62,12 @@ Solder everything (Expected – May 24)
 <img src="/images/solenoid_circuit.jpg" style="width: 100%" />
 
 **No Work Done**
-Implement a queue for OTTO (Expected – June 1)
-Add a weight sensor to detect a class (Expected – Whenever (if) we have time)
 
-Even though we’re still on track to finish, it looks like we won’t have time to implement some of our stretch goals. We have been spending a lot of time just running around San Diego trying to get together all the parts we need. We almost had a major setback on Saturday when we were working with the mini-fridge. We kind of broke the freon line so all the gas escaped and the fridge is basically broken. We managed to find someone on Craigslist that very same day that was selling a bigger, better fridge. It was a detour of several hours that could have easily morphed into a serious setback.
+Implement a queue for OTTO (Expected – June 1)
+
+Add a weight sensor to detect a glass (Expected – Whenever (if) we have time)
+
+Even though we’re still on track to finish, it looks like we won’t have time to implement some of our stretch goals. We have been spending a lot of time just running around San Diego trying to get together all the parts we need. We almost had a major setback on Saturday when we were working with the mini-fridge. We kind of broke the freon line so all the gas escaped and the fridge is basically broken. We managed to find someone on Craigslist that very same day that was selling a bigger, better fridge. It was a detour of several hours that could have easily morphed into a serious setback. That aside, we've been doing really well making steady progress everyday.
 
 **Sprint**
 <!-- I know this is disgusting. mama please forgive me. -->
