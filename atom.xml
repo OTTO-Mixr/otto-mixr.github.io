@@ -4,7 +4,7 @@
   <title><![CDATA[Otto, The Truly Open Mixer]]></title>
   <link href="http://OTTO-Mixr.github.io/atom.xml" rel="self"/>
   <link href="http://OTTO-Mixr.github.io/"/>
-  <updated>2014-05-20T00:30:43-07:00</updated>
+  <updated>2014-05-20T00:37:28-07:00</updated>
   <id>http://OTTO-Mixr.github.io/</id>
   <author>
     <name><![CDATA[Team OTTO]]></name>
@@ -81,11 +81,13 @@ Solder everything (Expected – May 24)</p>
 <p><em>We’ve started running all the wires, but we’ve just tied them in. Once we decide exactly what we want we’ll solder and use heat shrink wrap to make it all permanent.</em>
 <img src="http://OTTO-Mixr.github.io/images/solenoid_circuit.jpg" style="width: 100%" /></p>
 
-<p><strong>No Work Done</strong>
-Implement a queue for OTTO (Expected – June 1)
-Add a weight sensor to detect a class (Expected – Whenever (if) we have time)</p>
+<p><strong>No Work Done</strong></p>
 
-<p>Even though we’re still on track to finish, it looks like we won’t have time to implement some of our stretch goals. We have been spending a lot of time just running around San Diego trying to get together all the parts we need. We almost had a major setback on Saturday when we were working with the mini-fridge. We kind of broke the freon line so all the gas escaped and the fridge is basically broken. We managed to find someone on Craigslist that very same day that was selling a bigger, better fridge. It was a detour of several hours that could have easily morphed into a serious setback.</p>
+<p>Implement a queue for OTTO (Expected – June 1)</p>
+
+<p>Add a weight sensor to detect a glass (Expected – Whenever (if) we have time)</p>
+
+<p>Even though we’re still on track to finish, it looks like we won’t have time to implement some of our stretch goals. We have been spending a lot of time just running around San Diego trying to get together all the parts we need. We almost had a major setback on Saturday when we were working with the mini-fridge. We kind of broke the freon line so all the gas escaped and the fridge is basically broken. We managed to find someone on Craigslist that very same day that was selling a bigger, better fridge. It was a detour of several hours that could have easily morphed into a serious setback. That aside, we&rsquo;ve been doing really well making steady progress everyday.</p>
 
 <p><strong>Sprint</strong></p>
 
