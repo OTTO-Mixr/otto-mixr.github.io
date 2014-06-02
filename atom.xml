@@ -4,7 +4,7 @@
   <title><![CDATA[Otto, The Truly Open Mixer]]></title>
   <link href="http://OTTO-Mixr.github.io/atom.xml" rel="self"/>
   <link href="http://OTTO-Mixr.github.io/"/>
-  <updated>2014-06-02T15:14:48-07:00</updated>
+  <updated>2014-06-02T15:28:04-07:00</updated>
   <id>http://OTTO-Mixr.github.io/</id>
   <author>
     <name><![CDATA[Team OTTO]]></name>
@@ -12,6 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[TEST PLS IGNORE]]></title>
+    <link href="http://OTTO-Mixr.github.io/blog/2014/06/02/TEST-PLS-IGNORE/"/>
+    <updated>2014-06-02T22:49:51-07:00</updated>
+    <id>http://OTTO-Mixr.github.io/blog/2014/06/02/TEST-PLS-IGNORE</id>
+    <content type="html"><![CDATA[<p><img src="http://OTTO-Mixr.github.io/images/1.jpg" style="width: 100%" />
+<img src="http://OTTO-Mixr.github.io/images/2.jpg" style="width: 100%" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Story So Far Part 2: Final Milestone Update]]></title>
@@ -134,16 +144,6 @@ Solder everything (Expected – May 24)</p>
 &nbsp;&nbsp;&nbsp;&nbsp;Determine optimal drinks for pre-installation and demo<br />
 &nbsp;&nbsp;Week 10<br />
 &nbsp;&nbsp;&nbsp;&nbsp;Populate database with valuable recipes based on demo drinks<br /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[TEST PLS IGNORE]]></title>
-    <link href="http://OTTO-Mixr.github.io/blog/2014/05/19/TEST-PLS-IGNORE/"/>
-    <updated>2014-05-19T22:49:51-07:00</updated>
-    <id>http://OTTO-Mixr.github.io/blog/2014/05/19/TEST-PLS-IGNORE</id>
-    <content type="html"><![CDATA[<p><img src="http://OTTO-Mixr.github.io/images/1.jpg" style="width: 100%" />
-<img src="http://OTTO-Mixr.github.io/images/2.jpg" style="width: 100%" /></p>
 ]]></content>
   </entry>
   
