@@ -4,7 +4,7 @@
   <title><![CDATA[Otto, The Truly Open Mixer]]></title>
   <link href="http://OTTO-Mixr.github.io/atom.xml" rel="self"/>
   <link href="http://OTTO-Mixr.github.io/"/>
-  <updated>2014-06-10T22:20:52-07:00</updated>
+  <updated>2014-07-24T20:54:04-07:00</updated>
   <id>http://OTTO-Mixr.github.io/</id>
   <author>
     <name><![CDATA[Team OTTO]]></name>
@@ -12,6 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Final Update Video!]]></title>
+    <link href="http://OTTO-Mixr.github.io/blog/2014/07/24/final-update-video/"/>
+    <updated>2014-07-24T20:46:13-07:00</updated>
+    <id>http://OTTO-Mixr.github.io/blog/2014/07/24/final-update-video</id>
+    <content type="html"><![CDATA[<p>Cheers!</p>
+
+<div class='embed-container'>
+<iframe src="//www.youtube.com/embed/HyCfxLFWHoo" frameborder="0" allowfullscreen></iframe>
+</div>
+
+
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[TEST PLS IGNORE]]></title>
